@@ -1,0 +1,57 @@
+{
+  "info": {
+    "uid": "123456789",
+    "lang": "en-us",
+    "export_time": "2024-01-17 15:30:00",
+    "export_timestamp": 1705500600,
+    "export_app": "TestApp",
+    "export_app_version": "1.0.0",
+    "uigf_version": "v2.2"
+  },
+  "list": [
+    {
+      "gacha_type": "301",
+      "item_id": "",
+      "count": "1",
+      "time": "2024-01-01 10:00:00",
+      "name": "Diluc",
+      "item_type": "Character",
+      "rank_type": "5",
+      "id": "1704096000000000001",
+      "uigf_gacha_type": "301"
+    },
+    {
+      "gacha_type": "301",
+      "item_id": "",
+      "count": "1",
+      "time": "2024-01-01 10:01:00",
+      "name": "Favonius Warbow",
+      "item_type": "Weapon",
+      "rank_type": "4",
+      "id": "1704096060000000002",
+      "uigf_gacha_type": "301"
+    },
+    {
+      "gacha_type": "301",
+      "item_id": "",
+      "count": "1",
+      "time": "2024-01-01 10:02:00",
+      "name": "Debate Club",
+      "item_type": "Weapon",
+      "rank_type": "3",
+      "id": "1704096120000000003",
+      "uigf_gacha_type": "301"
+    },
+    {
+      "gacha_type": "301",
+      "item_id": "",
+      "count": "1",
+      "time": "2024-01-02 10:00:00",
+      "name": "Jean",
+      "item_type": "Character",
+      "rank_type": "5",
+      "id": "1704096000000000019",
+      "uigf_gacha_type": "301"
+    }
+  ]
+}
